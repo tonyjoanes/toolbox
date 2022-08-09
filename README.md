@@ -1,2 +1,3 @@
-# toolbox
-My repo toolbox of information that helps me be a better developer and for things I can refer back to
+# Toolbox
+
+A repository to share useful tools, Nuget packages, YouTube videos and anything else that helps our lives as developers
