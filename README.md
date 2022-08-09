@@ -4,5 +4,5 @@ A repository to share useful tools, Nuget packages, YouTube videos and anything 
 
 ## Contents
 
-- [YouTube Channels to watch](useful-nuget-packages.md)
-- Handy NuGet packages
+- [YouTube Channels to watch](youtube-channels.md)
+- [Handy NuGet packages](useful-nuget-packages.md)
