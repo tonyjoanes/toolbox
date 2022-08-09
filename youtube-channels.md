@@ -13,3 +13,9 @@ For all kinds of useful C# and .NET related videos
 Exactly as the name suggests. Subscribe to [Marcel Demper](https://www.youtube.com/c/MarcelDempers) amazing videos that cut straight to the point and help you learn about devops.
 
 [That DevOps Guy](https://www.youtube.com/c/MarcelDempers)
+
+## Dave Farley (Continous Delivery)
+
+Informative videos about CD, project agility and software development in general.
+
+[Dave Farley (Continous Delivery](https://www.youtube.com/c/ContinuousDelivery)
