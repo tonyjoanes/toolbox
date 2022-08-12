@@ -11,4 +11,5 @@ A repository to share useful tools, Nuget packages, YouTube videos and anything 
 - [Engineering Management](management.md)
 - [Architecture](architecture.md)
 - [Patterns and Practices](patterns-and-practices.md)
+- [Blogs](blogs.md)
 - [Fun Stuff](fun-stuff.md)
