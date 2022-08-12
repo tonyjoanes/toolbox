@@ -12,4 +12,5 @@ A repository to share useful tools, Nuget packages, YouTube videos and anything 
 - [Architecture](architecture.md)
 - [Patterns and Practices](patterns-and-practices.md)
 - [Blogs](blogs.md)
+- [Tools](tools.md)
 - [Fun Stuff](fun-stuff.md)
