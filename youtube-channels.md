@@ -19,3 +19,7 @@ Exactly as the name suggests. Subscribe to [Marcel Demper](https://www.youtube.c
 Informative videos about CD, project agility and software development in general.
 
 [Dave Farley (Continous Delivery](https://www.youtube.com/c/ContinuousDelivery)
+
+## Robin Sharma (Productivity & Leadership)
+
+[https://www.youtube.com/user/sharmaleadership](https://www.youtube.com/user/sharmaleadership)
