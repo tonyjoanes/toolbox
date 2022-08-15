@@ -21,4 +21,8 @@ A repository to share useful tools, Nuget packages, YouTube videos and anything 
 
 ### Create a PR with your contribution 🏗️
 
+I welcome any contributions from people as I want this to grow into a knowledge base that people can get a lot of usage from.
+
 ### Raise an issue for broken links 🐛
+
+[Raise issues here](https://github.com/tonyjoanes/toolbox/issues)
