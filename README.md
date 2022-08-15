@@ -15,6 +15,7 @@ A repository to share useful tools, Nuget packages, YouTube videos and anything 
 - [Tools](tools.md)
 - [Productivity](productivity.md)
 - [Fun Stuff](fun-stuff.md)
+- [Memory Bank - things I should/could remember](memory-bank.md)
 
 ## Contribute
 
