@@ -19,6 +19,6 @@ A repository to share useful tools, Nuget packages, YouTube videos and anything 
 
 ## Contribute
 
-### Create a PR with your contribution
+### Create a PR with your contribution 🏗️
 
-### Raise an issue for broken links
+### Raise an issue for broken links 🐛
