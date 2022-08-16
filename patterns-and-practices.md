@@ -14,3 +14,9 @@ An explanation by Kennth Lange [Ports and Adapters](https://www.kennethlange.com
 This includes ports and adapters but also puts the whole thing together describing each layer of the onion so to speak.
 
 [Hexagonal Onion Clean CQRS How I Put It All Together/](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+
+## DDD Started Modelling Process
+
+Step by step guide to learning DDD and how to go about it
+
+[https://github.com/ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process)
