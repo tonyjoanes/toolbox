@@ -2,6 +2,8 @@
 
 ## Engineering ⚙
 
+### An Elektan Puzzle: Systems of Engineering Management
+
 This is the best and my favourite engineering management book so far. You can find it on Amazon.  
 [An Elektan Puzzle: Systems of Engineering Management, Will Larson](https://www.amazon.co.uk/dp/B07QYCHJ7V/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
@@ -10,7 +12,20 @@ This is the best and my favourite engineering management book so far. You can fi
      src="https://m.media-amazon.com/images/I/51aTO3pGp9L.jpg"
      height=150>
      
+
+### Good Strategy/Bad Strategy: The Difference and Why It Matters
+
+A book about strategies and how to spot good and bad ones
+
+<img title="Good Strategy/Bad Strategy: The Difference and Why It Matters" 
+     alt="Good Strategy/Bad Strategy: The Difference and Why It Matters" 
+     src="https://user-images.githubusercontent.com/6114264/184860537-e33aa115-ed51-4993-874d-3648d26bbd5f.png"
+     height=150>
+
+     
 ## Development
+
+### Code Complete, Steve McConnel
 
 A **Must** read for every software developer. You can find this on Amazon.  
 [Code Complete, Steve McConnel](https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?keywords=code+complete&qid=1660291970&sr=8-1)
