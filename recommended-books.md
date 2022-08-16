@@ -34,3 +34,13 @@ A **Must** read for every software developer. You can find this on Amazon.
      alt="Code Complete"
      src="https://images-na.ssl-images-amazon.com/images/I/41nvEPEagML._SX408_BO1,204,203,200_.jpg"
      height=150>
+     
+### Clean Code: A Handbook of Agile Software Craftsmanship
+
+No book list is complete without some Uncle Bob in there
+[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/B08X919JQ3/ref=sr_1_1?crid=1GZ7ABLODEMBU&keywords=clean+code&qid=1660646677&sprefix=clean+code%2Caps%2C74&sr=8-1)
+
+<img title="Clean Code: A Handbook of Agile Software Craftsmanship"
+     alt="Clean Code: A Handbook of Agile Software Craftsmanship"
+     src="https://m.media-amazon.com/images/I/41EYLUDaF8L.jpg"
+     height=150>
