@@ -16,7 +16,7 @@ You can easily integrate Pandoc with [Typora](https://typora.io/) here is the in
 
 [Pandoc](https://pandoc.org/)
 
-## Azure Data
+## Azure Data Studio
 
 Azure Data Studio is a cross-platform database tool for data professionals who use on-premises and cloud data platforms on Windows, macOS, and Linux.
 
