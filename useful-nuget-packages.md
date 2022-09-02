@@ -6,3 +6,10 @@ If you like dependency injection and assembly scanning then Scrutor is a handy p
 
 [Scrutor Nuget](https://www.nuget.org/packages/Scrutor)  
 [Scrutor Project Page](https://github.com/khellang/Scrutor)
+
+## FuncSharp ➕
+
+Functional programming library for C# language
+
+[FuncSharp](https://github.com/siroky/FuncSharp)  
+[FuncSharp on Nuget](https://www.nuget.org/packages/FuncSharp/)
