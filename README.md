@@ -9,7 +9,7 @@ A repository to share useful tools, Nuget packages, YouTube videos and anything 
 - [Handy NuGet packages](useful-nuget-packages.md)
 - [Book Recommendations](recommended-books.md)
 - [Engineering Management](management.md)
-  - [Coaching](coaching.md)
+  - [Coaching & Career Development](coaching.md)
 - [Architecture](architecture.md)
 - [Patterns and Practices](patterns-and-practices.md)
 - [Blogs](blogs.md)
