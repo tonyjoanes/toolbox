@@ -21,3 +21,7 @@ Using the grow model to help develop engineers.
 ## Measuring Success In a Team
 
 [https://www.rallybright.com/the-5-best-metrics-for-measuring-team-success](https://www.rallybright.com/the-5-best-metrics-for-measuring-team-success)
+
+## Engineers guide to career growth
+
+[Engineers guide to career growth](https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook)
