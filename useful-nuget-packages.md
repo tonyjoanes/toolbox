@@ -13,3 +13,9 @@ Functional programming library for C# language
 
 [FuncSharp](https://github.com/siroky/FuncSharp)  
 [FuncSharp on Nuget](https://www.nuget.org/packages/FuncSharp/)
+
+## BenchmarkDotNet 🚀
+
+Benchmarking tool for dotnet. You can really easily create benchmarks on code snippets and figure out which is the fastest and most efficient to use.
+
+[BenchmarkDoNet](https://benchmarkdotnet.org/)
