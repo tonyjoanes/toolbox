@@ -33,3 +33,15 @@ A nice easy GIT friendly GIT client with a nice name!
 - History
 - Blame
 - etc....
+
+## Diceware for generating pass phrases 🔑
+
+Security is important, here is a tool to generate pass phrases for your software.
+
+[https://www.rempe.us/diceware](https://www.rempe.us/diceware)
+
+## Dashlane password manager 🗝️
+
+Manage your password, great app, simple to use, nice web interface etc
+
+[https://www.dashlane.com/](https://www.dashlane.com/)
