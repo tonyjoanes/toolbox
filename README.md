@@ -10,6 +10,7 @@ A repository to share useful tools, Nuget packages, YouTube videos and anything 
 - [Book Recommendations](recommended-books.md)
 - [Engineering Management](management.md)
   - [Coaching & Career Development](coaching.md)
+  - [Interviewing & Recruitment](recruitment.md)
 - [Architecture](architecture.md)
 - [Patterns and Practices](patterns-and-practices.md)
 - [Blogs](blogs.md)
