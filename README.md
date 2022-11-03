@@ -13,6 +13,8 @@ A repository to share useful tools, Nuget packages, YouTube videos and anything 
   - [Interviewing & Recruitment](recruitment.md)
 - [Architecture](architecture.md)
 - [Patterns and Practices](patterns-and-practices.md)
+- [Code Stuff]()
+  - [LINQ Examples](code/linq-examples.md)
 - [Blogs](blogs.md)
 - [Tools](tools.md)
 - [Productivity](productivity.md)
