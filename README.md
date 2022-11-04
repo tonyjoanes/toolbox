@@ -15,6 +15,7 @@ A repository to share useful tools, Nuget packages, YouTube videos and anything 
 - [Patterns and Practices](patterns-and-practices.md)
 - [Code Stuff]()
   - [LINQ Examples](code/linq-examples.md)
+  - [Command Line Snippets](code/command-line-snippets.md)
 - [Blogs](blogs.md)
 - [Tools](tools.md)
 - [Productivity](productivity.md)
