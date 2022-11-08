@@ -18,3 +18,5 @@ Set expectations with the users/customers
 #### 2 Treading water
 #### 3 Repaying debt
 #### 4 Innovating
+
+Don't mess with a team innovating and don't ruin their flow.

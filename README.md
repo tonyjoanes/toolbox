@@ -8,9 +8,10 @@ A repository to share useful tools, Nuget packages, YouTube videos and anything 
   - [Standout Videos to watch](youtube-channels-standout.md)
 - [Handy NuGet packages](useful-nuget-packages.md)
 - [Book Recommendations](recommended-books.md)
-- [Engineering Management](management.md)
-  - [Coaching & Career Development](coaching.md)
-  - [Interviewing & Recruitment](recruitment.md)
+- [Engineering Management](engineering-management/management.md)
+  - [Coaching & Career Development](engineering-management/coaching.md)
+  - [Interviewing & Recruitment](engineering-management/recruitment.md)
+  - [Ideas](engineering-management/ideas.md)
 - [Architecture](architecture.md)
 - [Patterns and Practices](patterns-and-practices.md)
 - [Code Stuff]()
@@ -21,6 +22,9 @@ A repository to share useful tools, Nuget packages, YouTube videos and anything 
 - [Productivity](productivity.md)
 - [Fun Stuff](fun-stuff.md)
 - [Memory Bank - things I should/could remember](memory-bank.md)
+- [Career]()
+  - [Interviews](career/interviews.md)
+  - [Starting at a new company](career/starting-a-new-job.md)
 
 ## Contribute
 
