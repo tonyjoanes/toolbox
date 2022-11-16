@@ -19,6 +19,7 @@ A repository to share useful tools, Nuget packages, YouTube videos and anything 
   - [Engineering Management](engineering-management/management.md)
   - [Coaching & Career Development](engineering-management/coaching.md)
   - [Interviewing & Recruitment](engineering-management/recruitment.md)
+  - [DORA Metrics](engineering-management/dora-metrics.md)
   - [Ideas](engineering-management/ideas.md)
 - Code Stuff
   - [LINQ Examples](code/linq-examples.md)

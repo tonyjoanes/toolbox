@@ -45,3 +45,9 @@ Security is important, here is a tool to generate pass phrases for your software
 Manage your password, great app, simple to use, nice web interface etc
 
 [https://www.dashlane.com/](https://www.dashlane.com/)
+
+## Pencil Project ✏
+
+An open source GUI tool for prototyping new ideas [Pencil Project](https://pencil.evolus.vn/)
+
+It includes support for diagrams and clip are obtained from the web.

@@ -17,3 +17,5 @@ share ideas and improvements that can add value to teams
 ## OKR Reviews
 
 Actually make them all visible and have owners of those so you can track the progress of them. There are some tools that can help you do this and be able to visualise the progess of the OKR's.
+
+You could use a tool and/or capture progess as % complete and confidence to score the OKR. There is probably some good resource to read up on this and how to measure them.
