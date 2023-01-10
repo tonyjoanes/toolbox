@@ -38,3 +38,11 @@ else which is more scalable than keeping it in your head.
 
 Use a consistent note taking tool and ideally use the company shared wiki tool so that you can get your notes
 validated and they will also be useful to other people in the future.
+
+### Get upto speed 🚤
+
+Use the source control tool.
+
+Look for code that is continuously being changed. This could be a bug hive, lots of bugs that need fixing all the time. Or the code could be really coupled.
+
+Tools to use to look at source control

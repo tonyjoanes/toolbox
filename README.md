@@ -6,7 +6,7 @@ A repository to share useful tools, Nuget packages, YouTube videos and anything 
 
 - Resources
   - [YouTube Channels to watch](resources/youtube-channels.md)
-  - [Standout Videos to watch](resources/youtube-channels-standout.md)
+	  - [Standout Videos to watch](resources/youtube-channels-standout.md)
   - [Handy NuGet packages](resources/useful-nuget-packages.md)
   - [Book Recommendations](resources/recommended-books.md)
   - [Patterns and Practices](resources/patterns-and-practices.md)
@@ -21,9 +21,11 @@ A repository to share useful tools, Nuget packages, YouTube videos and anything 
   - [Interviewing & Recruitment](engineering-management/recruitment.md)
   - [DORA Metrics](engineering-management/dora-metrics.md)
   - [Ideas](engineering-management/ideas.md)
+  - [Meetings](engineering-management/meetings.md)
 - Code Stuff
   - [LINQ Examples](code/linq-examples.md)
   - [Command Line Snippets](code/command-line-snippets.md)
+  - [C# 10 stuff](code/csharp.md)
 - Career
   - [Interviews](career/interviews.md)
   - [Starting at a new company](career/starting-a-new-job.md)
